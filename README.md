@@ -1,6 +1,6 @@
 # flutter_home
 
-An attempt to setup Home Automation tools in a flutter app
+A new Flutter project.
 
 ## Getting Started
 
